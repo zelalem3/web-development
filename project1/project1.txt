@@ -1,0 +1,2 @@
+get property - To get the values of an object to get the already made property of the that particular object car.door; 
+set propert = To set the propertty of an object car.door =0; 
