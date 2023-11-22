@@ -1,2 +1,2 @@
-# web-development
-A repository for a web development course
+web-development
+A repository for a web development course by Angela YU
